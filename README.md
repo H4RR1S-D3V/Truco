@@ -1,2 +1,2 @@
 # Truco
-Juego de cartas 'Truco' para consola (C++)
+Juego de cartas 'Truco' para consola (Hecho en C++)
