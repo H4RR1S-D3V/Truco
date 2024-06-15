@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1718483426 source:c:\users\usuario\documents\github\truco\truco\main.cpp
+	<iostream>
+	"Funicones/mostrarMenu.h"
+
+1718483044 source:c:\users\usuario\documents\github\truco\truco\funicones\mostarmenu.cpp
+	<iostream>
+	"mostarMenu.h"
+
+1718482721 c:\users\usuario\documents\github\truco\truco\funicones\mostarmenu.h
+
+1718483377 source:c:\users\usuario\documents\github\truco\truco\funicones\mostrarmenu.cpp
+	<iostream>
+	"mostrarMenu.h"
+
+1718482721 c:\users\usuario\documents\github\truco\truco\funicones\mostrarmenu.h
+
